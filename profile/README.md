@@ -1,6 +1,6 @@
 # dbfactory 🐘
 
-I'm Gilles Fauvie. Twenty years of PostgreSQL and infrastructure, from Belgium. dbfactory is where I put that work.
+I'm Gilles Fauvie. Fifteen years of PostgreSQL and infrastructure, from Belgium. dbfactory is where I put that work.
 
 **A backup you never restored is a guess.** I have seen a database lost that everybody thought was backed up. Nobody had ever tried a restore. That is the problem I work on.
 
